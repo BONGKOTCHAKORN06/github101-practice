@@ -17,7 +17,7 @@ BONGKOTCHAKORN06
 
 - README link: https://github.com/BONGKOTCHAKORN06/github101-practice/blob/main/README.md
 - Commit link:https://github.com/Supassorn27/team05-work/tree/main/firmware
-- Issue link:
+- Issue link:https://github.com/BONGKOTCHAKORN06/github101-practice/tree/main/docs/issues
 
 ## 5. Reflection
 
