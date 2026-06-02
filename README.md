@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| บงกชกร จันเกตุ | Team 05 | Embedded / IoT Developer | [example evidence](docs/evidence/example-student.md) | - |
+| บงกชกร จันเกตุ | Team 05 | Embedded / IoT Developer | https://github.com/BONGKOTCHAKORN06/github101-practice/tree/main/docs/evidence | https://github.com/BONGKOTCHAKORN06/github101-practice/tree/main/docs/issues |
 
 ---
 
