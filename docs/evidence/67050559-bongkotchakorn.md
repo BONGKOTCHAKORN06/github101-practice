@@ -7,7 +7,7 @@
 Embedded / IoT Developer
 
 ## Evidence link
-https://github.com/Supassorn27/team05-work/tree/main/firmware
+https://github.com/BONGKOTCHAKORN06/github101-practice/tree/main/docs
 
 ## Reflection
 วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: ได้รู้การสร้างไฟล์ อัปโหลดไฟล์ และจัดการโครงสร้างโฟลเดอร์ใน Repository รวมถึงการใช้งานGitHub Webในการทำงานร่วมกับทีม
