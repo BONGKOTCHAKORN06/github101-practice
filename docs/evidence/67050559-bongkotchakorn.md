@@ -4,7 +4,7 @@
 อธิบายว่าทำอะไรใน GitHub
 
 ## My role in project
-ระบุ role ของตนเองในทีม
+Embedded / IoT Developer
 
 ## Evidence link
 ใส่ link หลักฐาน หรืออธิบายว่างานของตนเองอยู่ตรงไหน
