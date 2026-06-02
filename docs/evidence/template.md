@@ -1,13 +1,13 @@
-# GitHub Practice Evidence — [ชื่อ-สกุล]
+# GitHub Practice Evidence — บงกชกร จันเกตุ
 
 ## 1. My GitHub Username
 
-[ใส่ GitHub username]
+BONGKOTCHAKORN06
 
 ## 2. My Team / Role
 
-- Team:
-- Role in Sprint:
+- Team: work
+- Role in Sprint: Embedded / IoT Developer
 
 ## 3. What I did in this repo
 
@@ -15,12 +15,12 @@
 
 ## 4. Evidence Link
 
-- README link:
+- README link: 
 - Commit link:
 - Issue link:
 
 ## 5. Reflection
 
 1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:
-2. ฉันใช้วิธีไหน: GitHub Web / GitHub Desktop / command line / อื่น ๆ
+2. ฉันใช้วิธีไหน: GitHub Web 
 3. ฉันติดปัญหาอะไร และแก้อย่างไร:
