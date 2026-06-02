@@ -1,7 +1,7 @@
 # GitHub Practice Evidence — [บงกชกร จันเกตุ]
 
 ## What I did
-อธิบายว่าทำอะไรใน GitHub
+อัปโหลดไฟล์และจัดระเบียบ Repository ของโปรเจกต์ เพิ่มโค้ดอ่านค่า DHT11 และควบคุม LED แทนพัดลมบน ESP32
 
 ## My role in project
 Embedded / IoT Developer
